@@ -1,0 +1,7 @@
+eventnumber,type,location,date,time,currentattendance,openslots,nameofevent,hotevent
+1,Sports,EagleBank Arena,08/05/2025,1800-2000,3510,6490,George Mason University versus Virginia Commonwealth University Basketball Game,true
+2,Arts,Mason Pond Lawn,08/21/2025,2000-2200,100,50,Comedy Hypnosis Featuring: Sailesh The Hypnotist!,false
+3,Ceremony,EagleBank Arena,08/22/2025,1330-1500,450,550,New Student Convocation,true
+4,Social,To Be Determined,08/22/2025,2100-2300,5,95,Club 4400,false
+5,Social,To Be Determined,08/23/2025,1900-2200,55,5,Mason Mayhem,false
+6,Social,Johnson Center Dewberry Hall,09/11/2025,0900-1400,678,22,Mason Nation 9/11 Day of Service,true
